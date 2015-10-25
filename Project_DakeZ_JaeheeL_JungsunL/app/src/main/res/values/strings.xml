@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_DakeZ_JaeheeL_JungsunL</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- added by Jungsun -->
+    <string name="title_activity_add_appointment">Add Appointment</string>
+    <string name="title">Title</string>
+    <string name="memo">Memo</string>
+    <!-- added by Jungsun -->
+
+</resources>
