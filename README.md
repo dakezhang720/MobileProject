@@ -1,2 +1,2 @@
 # MobileProject
-Appoint app
+Appointment app
